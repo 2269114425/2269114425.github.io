@@ -12,5 +12,4 @@
 ### 荣誉奖励
 
 ### 项目研究
-
-![image]（https://github.com/2269114425/2269114425.github.io/blob/main/1%E4%B8%AA/IMG_20201121_211921.jpg）
+![image](https://github.com/2269114425/2269114425.github.io/blob/main/1%E4%B8%AA/IMG_20201121_211921.jpg)
